@@ -1,0 +1,16 @@
+current directory: /Users/arturdrzyzga/texugo/vendor/bundle/ruby/2.7.0/gems/debug-1.7.0/ext/debug
+/Users/arturdrzyzga/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/arturdrzyzga/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20221211-87065-5d9ob4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/arturdrzyzga/texugo/vendor/bundle/ruby/2.7.0/gems/debug-1.7.0/ext/debug
+make "DESTDIR=" clean
+
+current directory: /Users/arturdrzyzga/texugo/vendor/bundle/ruby/2.7.0/gems/debug-1.7.0/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/arturdrzyzga/texugo/vendor/bundle/ruby/2.7.0/gems/debug-1.7.0/ext/debug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 debug.bundle ./.gem.20221211-87065-1dlaizq/debug
